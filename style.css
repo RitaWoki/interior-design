@@ -1,14 +1,26 @@
 .column1 {
   width:33%;
   float:left;
+  margin: 12px;
+  padding: 4px;
+  border: 2px solid orange;
+  background-color: grey;
 }
 .column2 {
   width: 33%;
   float: left;
+  margin: 11px;
+  padding: 3px;
+  border: 2px solid orange;
+  background-color: grey;
 }
 .column3 {
   width: 33%;
   float: left;
+  margin: 10px;
+  padding: 8px;
+  border:1px solid orange;
+  background-color: grey;
 }
 
 .column1 img{
