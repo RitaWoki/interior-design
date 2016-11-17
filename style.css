@@ -1,0 +1,24 @@
+.column1 {
+  width:33%;
+  float:left;
+}
+.column2 {
+  width: 33%;
+  float: left;
+}
+.column3 {
+  width: 33%;
+  float: left;
+}
+
+.column1 img{
+  width: 400px;
+}
+  .column2 img{
+    width:350px;
+  }
+
+
+.column3 img{
+  width: 400px;
+}
